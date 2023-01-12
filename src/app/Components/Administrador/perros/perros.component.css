@@ -1,0 +1,15 @@
+.container-fluid{
+    height: 82vh;
+}
+
+.title{
+	background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
+	background-size: cover;
+	color: transparent;
+    padding-top: .2rem;
+	-moz-background-clip: text;
+	-webkit-background-clip: text;
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
